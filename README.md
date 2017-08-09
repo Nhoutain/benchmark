@@ -95,3 +95,4 @@ dans le dossier gnuplot.
 
 Si vous avez l'erreur "required file `./ltmain.sh`" en faisant `./configure` ou `./bootstrap.sh`,
 assurez vous que votre dossier `gnuplot-4.6.5` n'est pas dans `benchmark` et vice versa.
+
